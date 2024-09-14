@@ -15,7 +15,7 @@ Writing Coach is a Streamlit-based web application that provides real-time feedb
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/writing-coach.git
+   git clone https://github.com/lalomorales22/WritingCoach-Streamlit100.git
    cd writing-coach
    ```
 
